@@ -1,0 +1,327 @@
+[
+  {
+    "id": "ESC-ACE761",
+    "question": "How do I cancel a member payment subscription or recurring order?",
+    "reason": "LLM error: Messages.create() got an unexpected keyword argument 'temperature'",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-F02523",
+    "question": "What are the mandatory fields required when importing members via CSV?",
+    "reason": "LLM error: Messages.create() got an unexpected keyword argument 'temperature'",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-9A5756",
+    "question": "Can Brilliant Directories automatically dispatch drone couriers for physical product delivery?",
+    "reason": "LLM error: Messages.create() got an unexpected keyword argument 'temperature'",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000614045-can-i-host-a-wordpress-site-on-brilliant-directories-",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-867AB3",
+    "question": "Can Brilliant Directories automatically dispatch drone couriers for physical product delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-7552DD",
+    "question": "We want our members to receive delivery alerts tracked by autonomous drone GPS.",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-6CB88C",
+    "question": "Can Brilliant Directories dispatch automated drone delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-37FF73",
+    "question": "How to mint member profiles as NFTs on Ethereum blockchain?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-64A215",
+    "question": "Can the directory operate underwater submarine telemetry?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-BEBEE1",
+    "question": "How to configure quantum encrypted member passwords?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-EE6836",
+    "question": "We want our main directory on Brilliant Directories but our existing blog on WordPress. Is it possible to host WordPress in a subfolder or subdomain?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000614045-can-i-host-a-wordpress-site-on-brilliant-directories-",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-FF98D6",
+    "question": "Can Brilliant Directories dispatch automated drone couriers?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-5C43D0",
+    "question": "Can Brilliant Directories dispatch automated drone couriers?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-F9F06A",
+    "question": "Can Brilliant Directories dispatch automated drone couriers?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-C5492D",
+    "question": "Can Brilliant Directories dispatch automated drone couriers?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-20B1FA",
+    "question": "Can Brilliant Directories dispatch automated drone couriers for physical product delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-42D22A",
+    "question": "Can Brilliant Directories dispatch automated drone couriers for physical product delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-EBECE9",
+    "question": "Can Brilliant Directories dispatch automated drone couriers for physical product delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-1A776B",
+    "question": "Can Brilliant Directories dispatch automated drone couriers for physical product delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-CF24E1",
+    "question": "Can Brilliant Directories dispatch automated drone couriers for physical product delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-8B6C6A",
+    "question": "Can Brilliant Directories dispatch automated drone couriers for physical product delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-D26E93",
+    "question": "Can Brilliant Directories dispatch automated drone couriers for physical product delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-9A937C",
+    "question": "Can Brilliant Directories dispatch automated drone couriers for physical product delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-B8F4C1",
+    "question": "Can Brilliant Directories dispatch automated drone couriers for physical product delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-8B8AB3",
+    "question": "Can Brilliant Directories dispatch automated drone couriers for physical product delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  },
+  {
+    "id": "ESC-A894EC",
+    "question": "Can Brilliant Directories dispatch automated drone couriers for physical product delivery?",
+    "reason": "Zero or insufficient relevant documentation found in knowledge base.",
+    "status": "pending_human_review",
+    "candidate_sources": [
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with",
+      "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics"
+    ],
+    "human_answer": null
+  }
+]

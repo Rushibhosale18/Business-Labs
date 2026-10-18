@@ -1,0 +1,29 @@
+Project: Artisan Direct Marketplace
+Meeting: E-Commerce & Payment Architecture Session (Meeting B)
+Date: October 14, 2026
+Participants:
+- Alex Rivera (Solutions Architect, Software Services Agency)
+- Marcus Vance (Founder, Artisan Direct Marketplace)
+- Maya Patel (Technical Lead, Artisan Direct)
+
+[00:00] Alex: Hello Marcus and Maya. Today we're reviewing the e-commerce and transaction workflows for Artisan Direct. What are your core requirements?
+
+[00:35] Marcus: We want artisans to sell handcrafted goods through their directory profiles, but our checkout process is fragmented. First, we need to connect our primary payment gateway—we currently use Stripe, but we might want PayPal as a secondary option for European buyers.
+
+[01:20] Alex: Brilliant Directories has native integration with Stripe and PayPal Standard. Are you processing one cart checkout per vendor, or multi-vendor consolidated carts?
+
+[01:50] Maya: Initially, one checkout per vendor is fine. However, we need custom automated email notifications. When a customer purchases a product, the artisan should receive an instant email and an SMS notification with order details, and the buyer should receive an invoice receipt with a PDF download.
+
+[02:40] Alex: The platform supports transactional email templates natively. For SMS notifications, we will need to connect a webhook to an SMS provider like Twilio. Who will provide the Twilio account credentials?
+
+[03:10] Maya: We already have an active Twilio account and API keys, so we can provide those. Another key requirement: coupon codes. We want to run seasonal promotional discount codes like 'HOLIDAY15' for 15% off paid membership plans or product purchases.
+
+[04:00] Alex: Brilliant Directories has a built-in Coupon Code add-on that handles percentage discounts, fixed discounts, and expiration dates natively. We can configure that directly without custom code.
+
+[04:45] Marcus: That's great news—saves us development budget. What about refund handling? Can our support staff issue partial refunds from the admin dashboard?
+
+[05:20] Alex: That depends on the payment gateway API permissions. In Stripe, refunds can either be triggered via admin dashboard orders or through Stripe webhooks. We'll document the exact operational steps so your team avoids duplicate manual refunds.
+
+[06:00] Marcus: Perfect. What's the timeline to get payments, coupons, and notifications live?
+
+[06:30] Alex: With native configuration for Stripe and coupons, plus 8 to 12 hours for Twilio webhook setup and invoice styling, we can deliver this within 3 weeks.

@@ -1,0 +1,20 @@
+{
+  "name": "task2-inbox-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Enterprise Inbox Agent consuming Task 1 Knowledge Brain API",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "test": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "axios": "^1.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2"
+  }
+}

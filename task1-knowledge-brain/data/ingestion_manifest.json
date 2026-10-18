@@ -1,0 +1,156 @@
+{
+  "last_crawled": 1792235987.7850223,
+  "total_urls_discovered": 1537,
+  "articles": {
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-": {
+      "title": "Can I Send A Mass Email Campaign Using Brilliant Directories?",
+      "lastmod": "2026-06-18T06:08:26+05:30",
+      "content_hash": "d29c0e9a7e9dc8f3a72ed1f11f77138438ccd49288ce15f97a37d500dc1e907b",
+      "status": "ingested",
+      "file": "5000558357-can-i-send-a-mass-email-campaign-using-brilliant-directories-.json",
+      "sections_count": 1,
+      "images_count": 0,
+      "last_fetched": 1792235972.01365
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts": {
+      "title": "Emails \u00bb Email Accounts",
+      "lastmod": "2026-06-18T20:33:08+05:30",
+      "content_hash": "354ac24a5ee1f46fd03e01fb8fb3b9cfe6a5b2ec5e2f9d667a58d834312d21f2",
+      "status": "ingested",
+      "file": "5000558363-emails-email-accounts.json",
+      "sections_count": 6,
+      "images_count": 2,
+      "last_fetched": 1792235973.8691125
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000558373-email-forwarders": {
+      "title": "Email Forwarders",
+      "lastmod": "2026-06-18T01:10:33+05:30",
+      "content_hash": "e23dd09c73ecc635d000c190f0694b5e8c86567d263def8cdb8acb7e7484288b",
+      "status": "ingested",
+      "file": "5000558373-email-forwarders.json",
+      "sections_count": 6,
+      "images_count": 0,
+      "last_fetched": 1792235975.0539281
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000558389-settings-general-settings-social-media-tab": {
+      "title": "Settings \u00bb General Settings \u00bb Social Media Tab",
+      "lastmod": "2023-10-03T22:10:48+05:30",
+      "content_hash": "3fb965867f8b8e912508627690e06ea467eb668922c0932d525f7058abbb81e0",
+      "status": "ingested",
+      "file": "5000558389-settings-general-settings-social-media-tab.json",
+      "sections_count": 14,
+      "images_count": 2,
+      "last_fetched": 1792235976.391033
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000558401-how-to-import-categories-via-csv-file": {
+      "title": "How To Import Categories Via CSV File",
+      "lastmod": "2026-06-09T17:13:28+05:30",
+      "content_hash": "b6c3367851a3ae0561a816e6d2009088bdadbadaa9c5529667060c824feea40a",
+      "status": "ingested",
+      "file": "5000558401-how-to-import-categories-via-csv-file.json",
+      "sections_count": 3,
+      "images_count": 4,
+      "last_fetched": 1792235977.3725893
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000558475-how-to-import-members-via-csv-file": {
+      "title": "How To Import Members Via CSV File",
+      "lastmod": "2026-09-15T23:42:49+05:30",
+      "content_hash": "d708490b70a68ee6e69607473d0f31cd856b1a6b59bb8f0e02f34a9d9feccc19",
+      "status": "ingested",
+      "file": "5000558475-how-to-import-members-via-csv-file.json",
+      "sections_count": 12,
+      "images_count": 19,
+      "last_fetched": 1792235978.340317
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000559709-how-to-override-and-edit-default-css-stylesheets": {
+      "title": "How to Override and Edit Default CSS stylesheets",
+      "lastmod": "2023-07-15T04:59:09+05:30",
+      "content_hash": "030b87f69ca78ef238ee890cbab0b2b29c589f5f2bb8527aeabe4499790830fd",
+      "status": "ingested",
+      "file": "5000559709-how-to-override-and-edit-default-css-stylesheets.json",
+      "sections_count": 7,
+      "images_count": 4,
+      "last_fetched": 1792235979.2870915
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000559800-how-to-access-webmail-through-the-admin-area": {
+      "title": "How To Access Webmail Through the Admin Area",
+      "lastmod": "2026-06-18T06:29:47+05:30",
+      "content_hash": "30b7f46315385d8066b355534c0d20a1d0abc75085c1bfec1c37081561508953",
+      "status": "ingested",
+      "file": "5000559800-how-to-access-webmail-through-the-admin-area.json",
+      "sections_count": 6,
+      "images_count": 1,
+      "last_fetched": 1792235980.1528316
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000567728-how-do-i-cancel-payment-subscriptions-orders": {
+      "title": "How Do I Cancel Payment Subscriptions - Orders",
+      "lastmod": "2026-05-20T23:34:00+05:30",
+      "content_hash": "8eb5f120fdb5f6f06f560f120d331bd3710032b290c9c2986e5ba7d68456b4be",
+      "status": "ingested",
+      "file": "5000567728-how-do-i-cancel-payment-subscriptions-orders.json",
+      "sections_count": 5,
+      "images_count": 8,
+      "last_fetched": 1792235981.2290654
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000568062-mandatory-fields-for-member-imports": {
+      "title": "Mandatory Fields For Member Imports",
+      "lastmod": "2026-08-18T06:22:57+05:30",
+      "content_hash": "8108bad226bd39df2995c66f65e63c03bd8ee6b58361a4695946b3b0976ff735",
+      "status": "ingested",
+      "file": "5000568062-mandatory-fields-for-member-imports.json",
+      "sections_count": 8,
+      "images_count": 0,
+      "last_fetched": 1792235982.219588
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000614045-can-i-host-a-wordpress-site-on-brilliant-directories-": {
+      "title": "Can I host a Wordpress site on Brilliant Directories?",
+      "lastmod": "2021-04-15T05:41:33+05:30",
+      "content_hash": "0b3812be0e24034a3d6bdcbae9cf4688b61c5a8e6a512f3ba9c008da6b3631c0",
+      "status": "ingested",
+      "file": "5000614045-can-i-host-a-wordpress-site-on-brilliant-directories-.json",
+      "sections_count": 1,
+      "images_count": 0,
+      "last_fetched": 1792235983.1021178
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000619186-member-profile-analytics": {
+      "title": "Member Profile Analytics",
+      "lastmod": "2026-09-23T00:03:08+05:30",
+      "content_hash": "2d306794867a3793f3a93cc65e348d0bd60cd6ce068796a2916ac2ea7e3b6355",
+      "status": "ingested",
+      "file": "5000619186-member-profile-analytics.json",
+      "sections_count": 16,
+      "images_count": 17,
+      "last_fetched": 1792235984.0257614
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000636428-don-t-activate-all-of-the-post-types-prior-to-the-website-launch": {
+      "title": "Don't Activate All Of The Post Types Prior To the Website Launch",
+      "lastmod": "2021-03-21T20:14:59+05:30",
+      "content_hash": "e84867fe9be9c8c49d26698f59fbcac8a7f2a4f26eb3064f21aa3925e15e0f5e",
+      "status": "ingested",
+      "file": "5000636428-don-t-activate-all-of-the-post-types-prior-to-the-website-launch.json",
+      "sections_count": 1,
+      "images_count": 0,
+      "last_fetched": 1792235985.886321
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000649874-where-to-get-help-support": {
+      "title": "Where To Get Help & Support",
+      "lastmod": "2026-02-21T05:39:49+05:30",
+      "content_hash": "63f7acac865e7075a00b853403fcb50da4d99e43a67a85dce0eac1d81e92620d",
+      "status": "ingested",
+      "file": "5000649874-where-to-get-help-support.json",
+      "sections_count": 5,
+      "images_count": 4,
+      "last_fetched": 1792235986.8687954
+    },
+    "https://support.brilliantdirectories.com/support/solutions/articles/5000649876-what-the-brilliant-directories-support-team-can-help-with": {
+      "title": "What The Brilliant Directories Support Team Can Help With",
+      "lastmod": "2026-02-19T08:10:13+05:30",
+      "content_hash": "6dc2a34397bf8c653e3799a9c7106309458939f930448fdbddb0433e48721497",
+      "status": "ingested",
+      "file": "5000649876-what-the-brilliant-directories-support-team-can-help-with.json",
+      "sections_count": 8,
+      "images_count": 3,
+      "last_fetched": 1792235987.7850223
+    }
+  }
+}

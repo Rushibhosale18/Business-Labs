@@ -1,0 +1,502 @@
+[
+  {
+    "id": "EML-001",
+    "sender": "david.ross@lawdirectory.com",
+    "subject": "How do I update our site logo on mobile?",
+    "body": "Hi Support team, we noticed our website header logo looks distorted on mobile devices. Where in the admin settings can we upload a dedicated mobile logo or adjust dimensions? Thanks, David",
+    "expected_category": "how_to",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Ground response in General Settings > Brand Assets documentation."
+  },
+  {
+    "id": "EML-002",
+    "sender": "elena.g@weddingservices.org",
+    "subject": "How to import vendor members via CSV spreadsheet?",
+    "body": "Hello, we have a spreadsheet of 450 wedding vendors. Which columns are strictly mandatory so the import doesn't fail? Do we need subscription dates included?",
+    "expected_category": "how_to",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Cite Mandatory Fields for Member Imports and CSV file guidelines."
+  },
+  {
+    "id": "EML-003",
+    "sender": "marcus.k@contractorhub.io",
+    "subject": "Cancelling recurring billing for a cancelled member",
+    "body": "Can an admin cancel a member's recurring monthly charge directly from the backend dashboard without logging into Stripe separately? Where is this button located?",
+    "expected_category": "how_to",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Explain Transaction History > End Subscription route."
+  },
+  {
+    "id": "EML-004",
+    "sender": "claire@healthexperts.net",
+    "subject": "Setting up email forwarders",
+    "body": "Hi, I want info@healthexperts.net to automatically forward to my personal Gmail account. How do I configure email forwarders in Brilliant Directories?",
+    "expected_category": "how_to",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Cite Emails > Email Forwarders settings guide."
+  },
+  {
+    "id": "EML-005",
+    "sender": "timothy@autorepairdirectory.com",
+    "subject": "Importing category hierarchies",
+    "body": "Can we import multi-tier categories (Top level > Sub level > Sub-sub) in a single CSV file, or do they have to be uploaded one by one?",
+    "expected_category": "how_to",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Cite How To Import Categories Via CSV File."
+  },
+  {
+    "id": "EML-006",
+    "sender": "sophia@artgallerycollective.com",
+    "subject": "Changing font styling and CSS stylesheets",
+    "body": "Hello, our brand uses a custom Google font. Where can we safely override the theme's CSS stylesheets without losing changes during platform updates?",
+    "expected_category": "how_to",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Cite How to Override and Edit Default CSS stylesheets."
+  },
+  {
+    "id": "EML-007",
+    "sender": "brian@petcareconnect.com",
+    "subject": "Accessing Webmail directly from admin area",
+    "body": "Where in the admin sidebar can our staff log into webmail to view sent contact inquiries?",
+    "expected_category": "how_to",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Cite How To Access Webmail Through the Admin Area."
+  },
+  {
+    "id": "EML-008",
+    "sender": "jessica@fitnesstrainers.org",
+    "subject": "Connecting social media profile links",
+    "body": "How do we link our organization's Instagram and LinkedIn pages so the icons appear in the website header and footer?",
+    "expected_category": "how_to",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Cite Settings > General Settings > Social Media Tab."
+  },
+  {
+    "id": "EML-009",
+    "sender": "kevin@realestatelocals.com",
+    "subject": "Viewing individual member profile analytics",
+    "body": "Do members have access to a dashboard that shows how many profile views and phone number clicks their listing received this month?",
+    "expected_category": "how_to",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Cite Member Profile Analytics article."
+  },
+  {
+    "id": "EML-010",
+    "sender": "natalie@tutorsportal.co",
+    "subject": "Can we host a WordPress blog on the same domain?",
+    "body": "We want our main directory on Brilliant Directories but our existing blog on WordPress. Is it possible to host WordPress in a subfolder or subdomain?",
+    "expected_category": "how_to",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Cite Can I host a Wordpress site on Brilliant Directories documentation."
+  },
+  {
+    "id": "EML-011",
+    "sender": "aaron@accountantsnetwork.com",
+    "subject": "Activating post types prior to site launch",
+    "body": "Should we turn on events, coupons, and classified post types right away, or is it better to leave them disabled until we have enough active members?",
+    "expected_category": "how_to",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Cite Don't Activate All Of The Post Types Prior To Website Launch."
+  },
+  {
+    "id": "EML-012",
+    "sender": "rachel@architectsassociation.org",
+    "subject": "Mass email marketing campaigns",
+    "body": "Can we send weekly newsletter blasts to all 10,000 members directly through the Brilliant Directories email tool, or do you recommend an external ESP?",
+    "expected_category": "how_to",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Cite Can I Send A Mass Email Campaign Using Brilliant Directories."
+  },
+  {
+    "id": "EML-013",
+    "sender": "victor@techconsultants.org",
+    "subject": "CSV Import throws error 500 on row 142",
+    "body": "Our member CSV import halts halfway through and gives a generic server error on row 142. Can you inspect what is causing this import failure?",
+    "expected_category": "troubleshooting",
+    "risk_level": "Moderate",
+    "requires_human": false,
+    "expected_behavior": "Advise checking special characters, unescaped commas, and missing mandatory fields."
+  },
+  {
+    "id": "EML-014",
+    "sender": "megan@freelancedesigners.co",
+    "subject": "Stripe webhook failed: subscriptions not activating",
+    "body": "When new members pay on the signup form, their credit card is charged in Stripe, but their account status remains 'Pending' on the site. Please help urgently!",
+    "expected_category": "troubleshooting",
+    "risk_level": "Moderate",
+    "requires_human": false,
+    "expected_behavior": "Guide verification of Webhook signing secret and Payment Gateway status."
+  },
+  {
+    "id": "EML-015",
+    "sender": "carlos@sportsleaguedirectory.com",
+    "subject": "Custom CSS stylesheet changes disappeared after update",
+    "body": "We edited the primary navigation background in the custom CSS widget, but this morning our changes seem reverted. How do we restore our custom CSS?",
+    "expected_category": "troubleshooting",
+    "risk_level": "Moderate",
+    "requires_human": false,
+    "expected_behavior": "Explain widget revision history and safe override practices."
+  },
+  {
+    "id": "EML-016",
+    "sender": "hannah@localfarmersmarket.net",
+    "subject": "Member search filter returning 0 results for valid city",
+    "body": "Users searching for 'Austin, TX' get zero results even though we have 18 verified listings located in Austin. Geocoding seems broken.",
+    "expected_category": "troubleshooting",
+    "risk_level": "Moderate",
+    "requires_human": false,
+    "expected_behavior": "Check Google Maps API key quotas and location geocoding settings."
+  },
+  {
+    "id": "EML-017",
+    "sender": "steve@plumbersnetwork.com",
+    "subject": "Email notifications landing in spam folders",
+    "body": "Lead notification emails sent to our plumbers are going into their Junk / Spam folders in Outlook and Yahoo. How do we fix SPF/DKIM records?",
+    "expected_category": "troubleshooting",
+    "risk_level": "Moderate",
+    "requires_human": false,
+    "expected_behavior": "Provide DNS SPF/DKIM configuration instructions for domain email deliverability."
+  },
+  {
+    "id": "EML-018",
+    "sender": "linda@counselorsguide.org",
+    "subject": "Members cannot upload profile photos on mobile Safari",
+    "body": "Several members report that clicking 'Upload Photo' on iPhone does nothing or freezes the page. Is there an image size limit setting?",
+    "expected_category": "troubleshooting",
+    "risk_level": "Moderate",
+    "requires_human": false,
+    "expected_behavior": "Explain file size upload settings and mobile photo orientation processing."
+  },
+  {
+    "id": "EML-019",
+    "sender": "eric@breweryfinder.io",
+    "subject": "Lead matching form not distributing to nearby breweries",
+    "body": "Our 'Get a Quote' lead form received 4 submissions today, but none of the matching local businesses received an inquiry notification. Where do we check lead auto-match settings?",
+    "expected_category": "troubleshooting",
+    "risk_level": "Moderate",
+    "requires_human": false,
+    "expected_behavior": "Direct user to Lead Settings > Auto-Match rules and notification recipients."
+  },
+  {
+    "id": "EML-020",
+    "sender": "paula@musiciansregistry.com",
+    "subject": "Member login loop redirecting back to home page",
+    "body": "When subscribers enter correct email and password, the page reloads back to the home page instead of their member dashboard. Could this be a cookie or SSL domain issue?",
+    "expected_category": "troubleshooting",
+    "risk_level": "Moderate",
+    "requires_human": false,
+    "expected_behavior": "Troubleshoot HTTPS redirect settings and member dashboard login redirect rule."
+  },
+  {
+    "id": "EML-021",
+    "sender": "greg@dentistsdirectory.net",
+    "subject": "Broken image icons on member profile gallery",
+    "body": "Some uploaded photos display broken image thumbnails on public profiles. Are image URLs case-sensitive or did the media folder permission change?",
+    "expected_category": "troubleshooting",
+    "risk_level": "Moderate",
+    "requires_human": false,
+    "expected_behavior": "Inspect CDN image URL formatting and member photo regeneration."
+  },
+  {
+    "id": "EML-022",
+    "sender": "amanda@veterinarianshub.com",
+    "subject": "SSL Certificate warning showing on checkout page",
+    "body": "Chrome is showing 'Not Secure' on our membership upgrade page. How do we force full site HTTPS so customers feel safe putting in credit cards?",
+    "expected_category": "troubleshooting",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Instruct on Admin Dashboard > Domain Manager > Install Free SSL Certificate."
+  },
+  {
+    "id": "EML-023",
+    "sender": "richard@chamberofcommerce.org",
+    "subject": "Project Request: Custom two-way calendar sync with Google Calendar",
+    "body": "Hi, our board approved a budget to build a custom two-way sync between our directory event postings and members' individual Google Calendars. Can your engineering team build this?",
+    "expected_category": "project_request",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Acknowledge requirement, flag as custom project scope, schedule scoping call."
+  },
+  {
+    "id": "EML-024",
+    "sender": "samantha@luxuryproperties.com",
+    "subject": "Project Request: MLS / IDX automated real estate property feed integration",
+    "body": "We want to ingest 15,000 active real estate listings daily from the regional MLS RETS/RESOD feed into our directory properties post type. Can you estimate development scope?",
+    "expected_category": "project_request",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Flag external dependency, estimate data pipeline, require human scoping."
+  },
+  {
+    "id": "EML-025",
+    "sender": "frank@b2bwholesalers.net",
+    "subject": "Project Request: Multi-vendor marketplace checkout with split payments",
+    "body": "We need customers to buy products from multiple directory vendors in one shopping cart, with Stripe Connect splitting payments automatically between vendors and our platform fee.",
+    "expected_category": "project_request",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Identify that BD native checkout is single-merchant; flag split payment as custom microservice."
+  },
+  {
+    "id": "EML-026",
+    "sender": "laura@fitnessstudios.com",
+    "subject": "Project Request: Native iOS and Android mobile app development",
+    "body": "Can your team package our Brilliant Directories website into native Apple App Store and Google Play apps with push notifications for instant leads?",
+    "expected_category": "project_request",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Define scope for mobile wrapper or React Native app consuming BD API webhooks."
+  },
+  {
+    "id": "EML-027",
+    "sender": "dennis@talentagency.co",
+    "subject": "Project Request: Video audition upload with automated transcription and tagging",
+    "body": "We want actors to upload 2-minute video clips that get automatically transcribed by AI and tagged by emotion/genre. Can we scope this project with your developers?",
+    "expected_category": "project_request",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Flag AI audio/video pipeline requirement, schedule technical feasibility session."
+  },
+  {
+    "id": "EML-028",
+    "sender": "monica@consultingnetwork.org",
+    "subject": "Project Request: Custom member matchmaking algorithm based on psychometrics",
+    "body": "We need a 50-question quiz on onboarding that calculates compatibility scores between corporate clients and management consultants. Please prepare a scope of work.",
+    "expected_category": "project_request",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Route to Task 3 Meeting to Scope agent team."
+  },
+  {
+    "id": "EML-029",
+    "sender": "mark.b@startuphub.io",
+    "subject": "Please cancel our agency plan and process a full refund immediately",
+    "body": "We were charged $299 yesterday for the annual renewal, but we stopped using the platform 3 months ago. Please cancel our plan and refund the $299 to our credit card.",
+    "expected_category": "refund_cancellation",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Acknowledge cancellation request, state policy, never promise unauthorized refunds without billing approval."
+  },
+  {
+    "id": "EML-030",
+    "sender": "carolyn@nonprofitdirectory.org",
+    "subject": "Cancellation of Add-On License",
+    "body": "We no longer need the VIP Member Export Add-On ($45/mo). Please remove this add-on from our monthly invoice starting next billing cycle.",
+    "expected_category": "refund_cancellation",
+    "risk_level": "Moderate",
+    "requires_human": true,
+    "expected_behavior": "Confirm add-on deactivation process, ensure billing team verifies."
+  },
+  {
+    "id": "EML-031",
+    "sender": "arthur@tradesmenunited.co.uk",
+    "subject": "Accidental double charge on setup fee - refund request",
+    "body": "Our credit card statement shows two identical charges of $150 on October 15th for our site setup. Can you review transaction logs and refund the duplicate charge?",
+    "expected_category": "refund_cancellation",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Escalate to finance team with transaction IDs, do not issue autonomous financial commitment."
+  },
+  {
+    "id": "EML-032",
+    "sender": "valerie@yogainstructors.net",
+    "subject": "Cancel subscription before 30-day money-back guarantee expires",
+    "body": "I signed up 14 days ago. Under your 30-day money-back policy, I am requesting a full cancellation and refund of my $97 initial payment.",
+    "expected_category": "refund_cancellation",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Route to accounts manager with signup date verification."
+  },
+  {
+    "id": "EML-033",
+    "sender": "walter@commerciallandscaping.com",
+    "subject": "Immediate account termination",
+    "body": "Our business is closing down operations at the end of this month. Please terminate our website hosting and delete stored customer credit card details.",
+    "expected_category": "refund_cancellation",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Provide formal cancellation confirmation checklist and data retention disclosure."
+  },
+  {
+    "id": "EML-034",
+    "sender": "claudia@petgroomerslocal.com",
+    "subject": "Dispute over unapplied coupon discount",
+    "body": "I had a 20% promotional coupon code 'AUTUMN20' that failed at checkout, charging me full price. Please credit back the $40 difference.",
+    "expected_category": "refund_cancellation",
+    "risk_level": "Moderate",
+    "requires_human": true,
+    "expected_behavior": "Inspect coupon configuration and refer to billing representative."
+  },
+  {
+    "id": "EML-035",
+    "sender": "jason.m@urgentcarenetwork.org",
+    "subject": "URGENT COMPLAINT: Directory search down during marketing campaign",
+    "body": "We spent $5,000 on Google Ads today and our search results page has been throwing a 502 Bad Gateway for 3 hours! We are losing hundreds of qualified patient leads. Who is responsible for this?",
+    "expected_category": "complaint",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Empathetic de-escalation, immediate high-priority server triage, supervisor notification."
+  },
+  {
+    "id": "EML-036",
+    "sender": "rebecca@accountingpros.co",
+    "subject": "Unacceptable support delay - Ticket #4092 still unresolved",
+    "body": "I submitted a critical ticket 4 business days ago regarding member payment webhooks and have received nothing but automated robot replies. I demand a phone call with a senior manager today.",
+    "expected_category": "complaint",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Apologize for delay, locate Ticket #4092, escalate to support team lead."
+  },
+  {
+    "id": "EML-037",
+    "sender": "samir@globaltradeassociation.com",
+    "subject": "Platform update altered our custom header without warning",
+    "body": "Your software update last night broke our custom menu navigation and logo alignment. Our corporate sponsors are complaining. Please rollback whatever code was pushed.",
+    "expected_category": "complaint",
+    "risk_level": "High",
+    "requires_human": true,
+    "expected_behavior": "Investigate CSS/widget version diffs and assist in restoring customized navigation widget."
+  },
+  {
+    "id": "EML-038",
+    "sender": "debra@coachingfederation.net",
+    "subject": "Spam bots flooding our member inquiry forms",
+    "body": "Over 200 fake Russian casino leads were submitted through our contact form today. Why isn't Google reCAPTCHA blocking these? Our members are furious.",
+    "expected_category": "complaint",
+    "risk_level": "Moderate",
+    "requires_human": true,
+    "expected_behavior": "Guide reCAPTCHA v3 setup, spam blacklist keywords, and honeypot field settings."
+  },
+  {
+    "id": "EML-039",
+    "sender": "anthony@restaurantsguide.io",
+    "subject": "Extremely slow page load times hurting our SEO rankings",
+    "body": "Google PageSpeed Insights gives our directory home page a score of 24 on mobile. TTFB is over 3.2 seconds. This is unacceptable for a paid hosting service.",
+    "expected_category": "complaint",
+    "risk_level": "Moderate",
+    "requires_human": true,
+    "expected_behavior": "Provide performance optimization checklist (image compression, disabling unused widgets, CDN cache)."
+  },
+  {
+    "id": "EML-040",
+    "sender": "karen@eventsplanners.org",
+    "subject": "Broken CSV export corrupted our member phone numbers",
+    "body": "We exported our members yesterday and all leading zeros in UK phone numbers were stripped by the exporter! This broke our automated SMS broadcaster.",
+    "expected_category": "complaint",
+    "risk_level": "Moderate",
+    "requires_human": true,
+    "expected_behavior": "Explain Excel CSV auto-formatting vs plain text export and text column formatting tips."
+  },
+  {
+    "id": "EML-041",
+    "sender": "peter@hvaccontractors.com",
+    "subject": "Quote Request: Cost to redesign directory homepage and hero search",
+    "body": "Hi, what would your agency charge to build a modern homepage design with interactive category icon cards and a centered search bar matching our Figma file?",
+    "expected_category": "quote_request",
+    "risk_level": "Moderate",
+    "requires_human": true,
+    "expected_behavior": "Provide hourly consulting rates ($125/hr), request Figma URL, schedule design discovery."
+  },
+  {
+    "id": "EML-042",
+    "sender": "olivia@freelancewriters.org",
+    "subject": "Quote Request: Custom Zapier integration to Airtable CRM",
+    "body": "How much does it cost to set up automated webhooks connecting Brilliant Directories new member signups and lead inquiries directly into our Airtable database?",
+    "expected_category": "quote_request",
+    "risk_level": "Moderate",
+    "requires_human": true,
+    "expected_behavior": "Estimate standard webhook setup (3-5 engineering hours), provide estimate range."
+  },
+  {
+    "id": "EML-043",
+    "sender": "douglas@medicalspecialists.co",
+    "subject": "Quote Request: Database migration from WordPress GeoDirectory",
+    "body": "We have 12,000 doctor listings on an old WordPress GeoDirectory site. Can you provide an estimate for data sanitization, field mapping, and importing into BD?",
+    "expected_category": "quote_request",
+    "risk_level": "Moderate",
+    "requires_human": true,
+    "expected_behavior": "Provide migration estimate framework (10-18 hours depending on schema complexity)."
+  },
+  {
+    "id": "EML-044",
+    "sender": "chloe@influencersdirectory.net",
+    "subject": "Quote Request: Custom gamified profile completion progress bar",
+    "body": "We want an animated progress widget on the member dashboard that awards badges when members upload their bio, avatar, and social links. What is the estimated cost?",
+    "expected_category": "quote_request",
+    "risk_level": "Moderate",
+    "requires_human": true,
+    "expected_behavior": "Assess frontend widget development scope and provide 3-point estimate."
+  },
+  {
+    "id": "EML-045",
+    "sender": "george@constructionleads.org",
+    "subject": "Quote Request: Twilio SMS lead instant alerts",
+    "body": "What would it cost to develop an instant SMS alert module using Twilio that texts local contractors whenever a consumer submits a roofing or plumbing lead?",
+    "expected_category": "quote_request",
+    "risk_level": "Moderate",
+    "requires_human": true,
+    "expected_behavior": "Explain native Webhook / Zapier options vs custom Twilio microservice and quote accordingly."
+  },
+  {
+    "id": "EML-046",
+    "sender": "barbara@seniorlivingguide.com",
+    "subject": "Follow-up on Ticket #3819 - Custom domain DNS propagation",
+    "body": "Hi, following up on our ticket from yesterday. Cloudflare A-records have been pointed to your IP for 24 hours now. Can you confirm if SSL is now active?",
+    "expected_category": "follow_up",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Check domain status in Admin Dashboard, confirm SSL propagation check steps."
+  },
+  {
+    "id": "EML-047",
+    "sender": "kevin.s@lawyersassociation.org",
+    "subject": "Checking status of our proposal for custom search filter",
+    "body": "Hello, we sent over our meeting notes last Thursday regarding multi-city radius filtering. Have your solutions architects finished the scope and hourly estimate?",
+    "expected_category": "follow_up",
+    "risk_level": "Low",
+    "requires_human": true,
+    "expected_behavior": "Confirm proposal under executive review, reference Task 3 Meeting to Scope deliverable."
+  },
+  {
+    "id": "EML-048",
+    "sender": "susan@artisanmarket.net",
+    "subject": "Did you receive our member CSV file for bulk import?",
+    "body": "Hi team, I emailed our cleaned 800-row artisan CSV spreadsheet on Tuesday. Just checking if you received it and when the import run will be executed.",
+    "expected_category": "follow_up",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Confirm receipt, cite import checklist, advise verification in sandbox."
+  },
+  {
+    "id": "EML-049",
+    "sender": "henry@golfcoursesguide.com",
+    "subject": "Follow-up: Staging site access credentials",
+    "body": "Hi, following our kickoff call, when will our team receive the login credentials to the development sandbox environment?",
+    "expected_category": "follow_up",
+    "risk_level": "Low",
+    "requires_human": false,
+    "expected_behavior": "Provide onboarding timeline for staging environment provisioning."
+  },
+  {
+    "id": "EML-050",
+    "sender": "monique@beautysalons.co",
+    "subject": "Status of invoice #INV-8821 payment verification",
+    "body": "Hi, we wired payment for the annual custom development retainer on Monday. Could accounting send us the receipt and confirm the retainer hours are active?",
+    "expected_category": "follow_up",
+    "risk_level": "Low",
+    "requires_human": true,
+    "expected_behavior": "Check finance queue, provide formal receipt notification."
+  }
+]

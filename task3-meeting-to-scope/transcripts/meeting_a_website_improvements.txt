@@ -1,0 +1,29 @@
+Project: Metro Commerce Directory Redesign
+Meeting: Kickoff Discovery Session (Meeting A)
+Date: October 12, 2026
+Participants:
+- Alex Rivera (Solutions Architect, Software Services Agency)
+- Jordan Miller (VP Product, Metro Commerce Directory)
+- Sarah Chen (Lead Designer, Software Services Agency)
+
+[00:00] Alex: Thanks for joining today, Jordan. Our goal is to dive into the improvements you want for the Metro Commerce directory. Could you walk us through the major pain points?
+
+[00:45] Jordan: Absolutely. Our main problem right now is search. Customers come to our directory and they complain that search isn't great. We want people to find local service businesses much faster. Specifically, we want dropdown filters for primary business categories, plus filter by city or zip code. And if possible, we want some kind of AI search that recommends businesses based on user preferences.
+
+[02:15] Alex: Understood. Regarding search filters—are you looking to filter by predefined categories that you assign to members, or should members tag themselves?
+
+[02:40] Jordan: We have predefined categories. We actually have an existing CSV spreadsheet with 5,000 member listings that we need imported with their categories and billing start dates. Right now our staff is entering them manually, which is taking weeks.
+
+[03:30] Alex: That's a huge time sink. We can definitely automate that onboarding. What about mobile? How is the current experience?
+
+[04:00] Jordan: Mobile is rough. The header menu is clunky and the logo looks stretched on iPhone screens. Also, our member profile photos look fuzzy on mobile screens, and our members are struggling to upload photos directly from their phone camera.
+
+[04:55] Sarah: We can audit the responsive CSS and image upload settings. Are there any administrative workflows that are taking too much time?
+
+[05:15] Jordan: Yes! Subscriptions and cancellations. When a member calls to cancel their recurring plan, our support team has to log into our payment processor dashboard separately to cancel the subscription. We need our site admins to be able to stop recurring charges and cancel orders directly inside the directory admin dashboard with one click.
+
+[06:10] Alex: Got it. What is your target timeline and budget for this initial rollout?
+
+[06:30] Jordan: We want to launch the revamped directory in 6 weeks, ideally before Thanksgiving. Budget-wise, we have approved up to $10,000 for this phase, provided the scope is clear and we don't build unnecessary things.
+
+[07:15] Alex: Excellent. Our team will review each of these requests against the platform capabilities, flag what is already supported out-of-the-box, estimate the engineering effort, and produce a detailed Scope of Work for your review.

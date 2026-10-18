@@ -1,0 +1,28 @@
+Project: Metro Commerce Directory Redesign
+Meeting: Follow-up & Change Request Review (Meeting C - Follow-up to Meeting A)
+Date: October 20, 2026
+Participants:
+- Alex Rivera (Solutions Architect, Software Services Agency)
+- Jordan Miller (VP Product, Metro Commerce Directory)
+
+[00:00] Alex: Welcome back, Jordan. Today we're reviewing the baseline Scope of Work we generated after Meeting A and addressing the updates you mentioned in your email.
+
+[00:30] Jordan: Thanks, Alex. Yes, our leadership team reviewed the initial proposal and budget. We have a few crucial changes:
+
+[00:55] Jordan: First, regarding that experimental AI preference-matching search we discussed in Meeting A—we decided to REMOVE that entirely from this phase. Our stakeholders felt it was too expensive and risky for the initial rollout. We want to stick strictly to standard category dropdowns and city/zip radius filters.
+
+[01:45] Alex: Understood. Removing that AI search reduces approximately 40 engineering hours from the scope and lowers the technical complexity significantly.
+
+[02:10] Jordan: Second, our marketing department just finalized our new corporate brand guidelines. We need to ADD custom CSS styling across the directory—specifically our exact brand hex colors (#0A2540 navy, #00D4FF cyan) and typography override using the Inter font family on all headings and navigation bars.
+
+[03:00] Alex: That is straightforward. Brilliant Directories allows safe custom CSS overrides via the Design Settings and custom stylesheet widget, so we can implement those brand styles cleanly in about 4 to 6 hours without breaking platform upgrades.
+
+[03:40] Jordan: Third, our CEO scheduled a major investor demonstration, so our delivery timeline has CHANGED. Instead of 6 weeks, we need the initial live release ready in 4 weeks. Can your team expedite testing to meet this new date?
+
+[04:20] Alex: With the 40 hours of AI custom development removed, compressing the timeline to 4 weeks is completely feasible.
+
+[04:50] Jordan: One last thing: can we also package this as a native mobile app for the Apple App Store and Google Play within our original $10k budget?
+
+[05:20] Alex: Jordan, building native iOS and Android apps requires separate React Native codebases, App Store developer approvals, and mobile push notification servers. That is distinctly OUT OF SCOPE for this directory web launch. We can provide a separate proposal for a mobile app in Phase 2, but we must flag it as an exclusion for this contract.
+
+[06:05] Jordan: Fair enough. Please send over the revised Scope of Work showing what was added, what was removed, and the revised hours and price.

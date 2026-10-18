@@ -1,0 +1,87 @@
+{
+  "url": "https://support.brilliantdirectories.com/support/solutions/articles/5000558363-emails-email-accounts",
+  "title": "Emails \u00bb Email Accounts",
+  "sections": [
+    {
+      "heading": "Overview",
+      "content": [
+        "Email accounts (mailboxes) at the website's own domain, such as support@example.com, are created and managed in Settings > Domain Manager > Mailboxes. The Emails > Email Accounts menu item opens that tab directly."
+      ],
+      "images": []
+    },
+    {
+      "heading": "Before starting",
+      "content": [
+        "Connect a custom domain to the website. A free directoryup.com address has no mailboxes of its own.",
+        "Confirm which provider receives the domain's email. Mailboxes on the website's hosting receive new mail only when the domain's MX records point to them."
+      ],
+      "images": []
+    },
+    {
+      "heading": "Open the email accounts",
+      "content": [
+        "In the admin, open Emails.",
+        "Click Email Accounts.",
+        "Domain Manager opens on the Mailboxes tab, which lists the mailboxes, their storage use, and where the domain's email is delivered.",
+        "Email Accounts in the Emails menu (1) opens Domain Manager on the Mailboxes tab (2)."
+      ],
+      "images": [
+        {
+          "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415572/original/0_RFHNGWzxRNTrt3i385M8zCmScYPSCYpg.png?1791392588",
+          "alt": "Admin Emails menu with Email Accounts highlighted (1) and Domain Manager opening on its Mailboxes tab (2).",
+          "context": "",
+          "section": "Open the email accounts"
+        }
+      ]
+    },
+    {
+      "heading": "Create and manage mailboxes",
+      "content": [
+        "On the Mailboxes tab, Add a mailbox creates a new mailbox with its password and storage limit. Each mailbox in the list offers Open webmail, Set up for the settings to enter in Outlook, Apple Mail, or a phone, and More for changing the password or storage limit or deleting the mailbox. The full steps are in Settings \u00bb Domain Manager \u00bb Mailboxes and Email Routing.",
+        "Generic addresses such as info@ are more often treated as spam by receiving mail systems. Addresses such as support@, admin@, or contact@ are usually a better choice."
+      ],
+      "images": []
+    },
+    {
+      "heading": "When the previous Email Accounts page appears",
+      "content": [
+        "The previous Manage Email Accounts page still opens in two cases:",
+        "The website uses a free directoryup.com address. The page explains that a live domain name must be connected before email accounts can be set up, and offers Connect Live Domain. See How to Connect a Domain to a Brilliant Directories Website.",
+        "The administrator's role does not include access to the Domain Manager's Mailboxes tab.",
+        "On a free directoryup.com address, Email Accounts shows the previous page with Connect Live Domain (1)."
+      ],
+      "images": [
+        {
+          "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358595/original/8ZBIk7xdczVdG2JjzsZeChbSSdKHPbks4Q.png?1791318600",
+          "alt": "Manage Email Accounts message saying a live domain must be connected first, with the Connect Live Domain button highlighted.",
+          "context": "",
+          "section": "When the previous Email Accounts page appears"
+        }
+      ]
+    },
+    {
+      "heading": "Additional notes",
+      "content": [
+        "Email replies do not have a separate reply-to address. Responses go to the address that sent the original message.",
+        "To read a mailbox in the browser, see How To Access Webmail Through the Admin Area."
+      ],
+      "images": []
+    }
+  ],
+  "full_text": "### Overview\nEmail accounts (mailboxes) at the website's own domain, such as support@example.com, are created and managed in Settings > Domain Manager > Mailboxes. The Emails > Email Accounts menu item opens that tab directly.\n\n### Before starting\nConnect a custom domain to the website. A free directoryup.com address has no mailboxes of its own.\nConfirm which provider receives the domain's email. Mailboxes on the website's hosting receive new mail only when the domain's MX records point to them.\n\n### Open the email accounts\nIn the admin, open Emails.\nClick Email Accounts.\nDomain Manager opens on the Mailboxes tab, which lists the mailboxes, their storage use, and where the domain's email is delivered.\nEmail Accounts in the Emails menu (1) opens Domain Manager on the Mailboxes tab (2).\n\n### Create and manage mailboxes\nOn the Mailboxes tab, Add a mailbox creates a new mailbox with its password and storage limit. Each mailbox in the list offers Open webmail, Set up for the settings to enter in Outlook, Apple Mail, or a phone, and More for changing the password or storage limit or deleting the mailbox. The full steps are in Settings \u00bb Domain Manager \u00bb Mailboxes and Email Routing.\nGeneric addresses such as info@ are more often treated as spam by receiving mail systems. Addresses such as support@, admin@, or contact@ are usually a better choice.\n\n### When the previous Email Accounts page appears\nThe previous Manage Email Accounts page still opens in two cases:\nThe website uses a free directoryup.com address. The page explains that a live domain name must be connected before email accounts can be set up, and offers Connect Live Domain. See How to Connect a Domain to a Brilliant Directories Website.\nThe administrator's role does not include access to the Domain Manager's Mailboxes tab.\nOn a free directoryup.com address, Email Accounts shows the previous page with Connect Live Domain (1).\n\n### Additional notes\nEmail replies do not have a separate reply-to address. Responses go to the address that sent the original message.\nTo read a mailbox in the browser, see How To Access Webmail Through the Admin Area.",
+  "images": [
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186415572/original/0_RFHNGWzxRNTrt3i385M8zCmScYPSCYpg.png?1791392588",
+      "alt": "Admin Emails menu with Email Accounts highlighted (1) and Domain Manager opening on its Mailboxes tab (2).",
+      "context": "",
+      "section": "Open the email accounts"
+    },
+    {
+      "src": "https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12186358595/original/8ZBIk7xdczVdG2JjzsZeChbSSdKHPbks4Q.png?1791318600",
+      "alt": "Manage Email Accounts message saying a live domain must be connected first, with the Connect Live Domain button highlighted.",
+      "context": "",
+      "section": "When the previous Email Accounts page appears"
+    }
+  ],
+  "content_hash": "354ac24a5ee1f46fd03e01fb8fb3b9cfe6a5b2ec5e2f9d667a58d834312d21f2"
+}
