@@ -4,7 +4,13 @@ A multi-agent, enterprise-grade AI consulting system designed for software and S
 
 ---
 
-## 🚀 One-Command Launch (Unified Dashboard)
+## 🌐 Live Production Deployment
+Your application is deployed and live in the cloud:
+👉 **[https://business-labs-1.onrender.com](https://business-labs-1.onrender.com)**
+
+---
+
+## 🚀 One-Command Local Launch (Unified Dashboard)
 
 To start the entire application suite (all 3 tasks and the interactive visual dashboard):
 
